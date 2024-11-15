@@ -5,7 +5,7 @@ This repository stores raw data and analysis of Georgian (country) elections.
 ## 2024 Parliamentary Elections
 
 
-This [folder]("2024_parliamentary") contains election data digitized by 87 volunteers. Since the CEC doesn't immediately digitize full protocol data, we did it manually. Data will be updated periodically if I find data entry errors
+This [folder](/2024_parliamentary) contains election data digitized by 87 volunteers. Since the CEC doesn't immediately digitize full protocol data, we did it manually. Data will be updated periodically if I find data entry errors. If you do too, drop me a line at david[at]sichinava[dot]ge.
 
 Here are data collected by other people:
 
